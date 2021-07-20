@@ -82,4 +82,4 @@ Then all you need is to create an instance of your custom animation handler and 
 See `CustomAnimationHandler` in **samples** module for a sample animation handler.
 
 ## Licence
-CircularFloatingActionMenu is released under MIT Licence. See file LICENCE.
+CircularFloatingActionMenu is released under MIT Licence. See file LICENCE...
